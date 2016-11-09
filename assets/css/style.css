@@ -1,0 +1,14 @@
+body {
+
+}
+
+#gifButtons {
+	padding: 10px;
+	margin: 10px;
+}
+
+.newButtons {
+	color: white;
+	background-color: teal;
+	margin: 10px;
+}
